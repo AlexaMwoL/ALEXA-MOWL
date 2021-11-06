@@ -18,3 +18,13 @@
 <p align="center">
 
 FORK CHEYUMBO NJANGALE EVDELUM ONN SMARIKKANE....シ︎.....ALEXA MWOL</a> MAKE IT PUBLIC
+
+## SETUP
+<div align="center">
+
+  ### CLICK TO DEPLOY ☟︎︎︎
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL) 
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
+  
