@@ -24,7 +24,7 @@ FORK CHEYUMBO NJANGALE EVDELUM ONN SMARIKKANE....シ︎.....ALEXA MWOL</a> MAKE 
 
   ### CLICK TO DEPLOY ☟︎︎︎
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploytemplate=https://github.com/AlexaMwoL/ALEXAMWOL
+[![Deploy](https://www.herokucdn.com/deploy/button.svg(https://heroku.com/deploytemplate=https://github.com/AlexaMwoL/ALEXAMWOL
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
   
